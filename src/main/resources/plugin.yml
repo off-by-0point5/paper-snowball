@@ -1,0 +1,9 @@
+name: Snowball
+version: ${project.version}
+main: com.github.offby0point5.mc.plugin.paper.snowball.Snowball
+api-version: 1.16
+prefix: snowball
+load: STARTUP
+authors: [ offbyone ]
+description: PaperMC plugin for a snowball fight
+website: https://github.com/off-by-0point5
